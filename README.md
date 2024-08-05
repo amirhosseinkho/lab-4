@@ -7,3 +7,10 @@
 
 
 که (\\d+) یک regex برای اعداد مثبت است.
+
+![image](https://github.com/user-attachments/assets/8a3efb76-734a-40ef-bd93-f422a1a975f7)
+رجکس برای تشخیص هم اعداد مثبت و هم منفی به این صورت است.
+
+![image](https://github.com/user-attachments/assets/e6a0058c-f9b4-4f82-b8c0-fb7d00e66c98)
+
+تست ها هم به طور کامل و درست پاس شدند و تست مشکل دار هم اوکی شد.
